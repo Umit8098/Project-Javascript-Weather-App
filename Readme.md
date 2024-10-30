@@ -1,3 +1,3 @@
 ## Project Javascript Weatherapp
 
-- https://openweathermap.org/   'den API çekereke oluşturulan bir weather app
+- https://openweathermap.org/   'den API çekerek oluşturulan bir weather app
