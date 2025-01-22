@@ -2,3 +2,4 @@
 
 - https://openweathermap.org/   'den API çekerek;
 - HTML, CSS, Javascript kullanılarak oluşturulan bir weather app.
+- Test
