@@ -58,6 +58,7 @@ $ git clone https://github.com/Umit8098/Project_Javascript_Weather_App.git
 
 ## About This Project
 - https://openweathermap.org/   'den API çekerek;
+<<<<<<< HEAD
 - HTML, CSS, Javascript kullanılarak oluşturulan bir weather application.
 
 
@@ -68,3 +69,7 @@ $ git clone https://github.com/Umit8098/Project_Javascript_Weather_App.git
 
 - Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+=======
+- HTML, CSS, Javascript kullanılarak oluşturulan bir weather app.
+- Test
+>>>>>>> 5e5b1809a0676975fd42880a32f4c38be9bf9601
