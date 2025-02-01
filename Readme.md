@@ -49,16 +49,24 @@
 
 To clone and run this application, you'll need [Git](https://github.com/Umit8098/Project_Javascript_Weather_App)
 
-
 ```bash
 # Clone this repository
 $ git clone https://github.com/Umit8098/Project_Javascript_Weather_App.git
+```
 
+- Create a config.js file in the root directory and write the apikey you will get from openweathermap into it.
+
+- Example
+
+config.js
+```js
+export const config = {
+    apiKey: "YOUR API_KEY"
+};
 ```
 
 ## About This Project
 - https://openweathermap.org/   'den API çekerek;
-<<<<<<< HEAD
 - HTML, CSS, Javascript kullanılarak oluşturulan bir weather application.
 
 
@@ -69,7 +77,4 @@ $ git clone https://github.com/Umit8098/Project_Javascript_Weather_App.git
 
 - Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
-=======
-- HTML, CSS, Javascript kullanılarak oluşturulan bir weather app.
-- Test
->>>>>>> 5e5b1809a0676975fd42880a32f4c38be9bf9601
+
