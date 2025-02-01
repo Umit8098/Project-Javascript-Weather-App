@@ -1,6 +1,9 @@
-function getWeather() {
+
+import { config } from './config.js';
+
+window.getWeather = function getWeather() {
     const city = document.getElementById("cityInput").value;
-    const apiKey = "e7dfd8d9f4ce5948e8881d2f5515c605";
+    const apiKey = config.apiKey;
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&lang=tr&appid=${apiKey}&units=metric`
 
     fetch(url)
